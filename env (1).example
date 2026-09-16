@@ -1,0 +1,7 @@
+TELEGRAM_BOT_TOKEN=your_botfather_token_here
+ADMIN_KEY=choose_any_secret_string_for_viewing_stats
+
+# These two are auto-added by Vercel when you connect a KV database
+# under Storage -> Create Database -> KV. You don't set them by hand.
+# KV_REST_API_URL=
+# KV_REST_API_TOKEN=
